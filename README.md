@@ -31,10 +31,10 @@ To setup this `lib` locally, you can follow these commands from your terminal:
 git clone https://github.com/rizkiadi23/sirclo_shipping_yard.git
 ```
 
-2. Install the dependencies by executing:
+2. Go into the project directory and then install the dependencies by executing:
 
 ```shell
-npm install
+cd sirclo_shipping_yard && npm install
 ```
 
 3. Run the unit test to see the sample output as sample:
