@@ -2,7 +2,7 @@
 
 ## 1. Introduction 🎬
 
-A sample Implementation of Object Oriented Programming Paradigm using TypeScript. In this repository
+A sample Implementation of Object Oriented Programming Paradigm using TypeScript.
 
 ## 2. Prerequisites 💡
 
